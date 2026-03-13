@@ -1,3 +1,4 @@
+// components/PomodoroTimer.js
 import { useState,useEffect } from "react";
 export default function PomodoroTimer() {
   const [s,setS] = useState(25*60),[r,setR]=useState(false);
