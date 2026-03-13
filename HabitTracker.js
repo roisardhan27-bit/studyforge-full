@@ -1,4 +1,4 @@
-// components/Header.js
+// components/HabitTracker.js
 import { useState } from "react";
 export default function HabitTracker() {
   const [habits,setHabits] = useState([
