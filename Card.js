@@ -1,4 +1,4 @@
-// components/Header.js
+// components/Card.js
 export default function Card({ title, children }) {
   return (
     <div className="bg-white p-4 rounded-lg shadow-md">
